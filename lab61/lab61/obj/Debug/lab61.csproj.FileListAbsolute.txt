@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\bin\Debug\lab61.exe.config
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\bin\Debug\lab61.exe
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\bin\Debug\lab61.pdb
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\obj\Debug\lab61.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\obj\Debug\lab61.exe
+c:\users\user\documents\visual studio 2017\Projects\lab61\lab61\obj\Debug\lab61.pdb
